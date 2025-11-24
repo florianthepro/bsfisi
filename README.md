@@ -46,3 +46,18 @@ Have  you  ever  been  in  a  similar situation? What was your reaction?
 Conversation
 
 </details>
+
+>11:45–12:30 · GLU · Raum Aula-Klein · HAR · [Modul3]() Vorstellung Modul 3
+
+<details><summary>Einleitung</summary>
+
+1. Allgemeine Vorstellung
+2. Rückblick: Widerholung: Subnetting DB ER SLA Bit&Bytes
+3. Wer sind wir: Leitlinen Aufbau
+4. Kraut&Korn - ist getränkemarkt
+5. Organigramm Besprechen:
+  1. Fragen wer was - ansprechpartner
+  2. Ablauf fragen Situationen
+  3. 
+
+</details>
