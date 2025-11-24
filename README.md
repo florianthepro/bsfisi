@@ -7,7 +7,7 @@
 1. enquiries
 2. general
 3. specific
-4. 4information
+4. information
 5. current catalogue
 6. price list
 7. request
