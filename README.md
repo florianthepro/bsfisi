@@ -51,31 +51,31 @@ Conversation
 
 <details><summary>Einleitung</summary>
 
-1. **Allgemeine Vorstellung**
-2. **Rückblick / Wiederholung**  
+1. Allgemeine Vorstellung
+2. Rückblick / Wiederholung  
    - Subnetting  
    - Datenbanken (DB)  
    - Entity-Relationship (ER)  
    - SLA  
    - Bits & Bytes
-3. **Wer sind wir**  
+3. Wer sind wir  
    - Leitlinien & Aufbau
-4. **Kraut & Korn**  
+4. Kraut & Korn  
    - Getränkemarkt als Beispiel
-5. **Organigramm besprechen**
+5. Organigramm besprechen
    - 5.1. Ansprechpartner klären („Wer macht was?“)  
    - 5.2. Ablauf bei Fragen & Situationen  
    - 5.3. Kärtchen mit Farben für Ansprechpartner  
    - 5.4. Kürzel & Farben für den Flur
-6. **Szenario: E-Mail von Kunden**
+6. Szenario: E-Mail von Kunden
    - 6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
    - 6.2. Lösung: Datenschutzkonformes Überwachungskonzept
-7. **Nächster Tag: Meeting**
+7. Nächster Tag: Meeting
    - On-Premises  
    - Differenzierung & Analyse (Nutzwertanalyse, Prototyp)  
    - Investition aufgrund Lage von Bauteilen  
    - IPv6-Schulung anhand des Netzwerks
-8. **Zusammenfassung**  
+8. Zusammenfassung
    - IPv6-Zertifizierung
 
 </details>
