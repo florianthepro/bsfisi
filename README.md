@@ -9,6 +9,7 @@
 </summary>
 
 2c.
+
 2c.1. enquiries
 2c.2. general
 2c.3. specific
@@ -24,9 +25,11 @@
 2c.13. quantity
 
 3a.
+
 3a.1. Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 3b.
+
 3b.1. Mediapark
 3b.2. Purchasing Department
 3b.3. Becous somthing wrent completly wrong
@@ -37,6 +40,7 @@
 3b.8. Stay by Costumer
 
 3c.
+
 3c.1. bad gravity, delivery times, no discount, wrong items, not as advertised
 3c.2. order numbers, invaice number, company details, description of issue, date
 3c.3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
@@ -54,7 +58,8 @@ page9, e.
 
 1. Allgemeine Vorstellung
 
-2. Rückblick / Wiederholung  
+2. Rückblick / Wiederholung 
+
 2.1. Subnetting  
 2.2. Datenbanken (DB)  
 2.3. Entity-Relationship (ER)  
@@ -62,28 +67,33 @@ page9, e.
 2.5. Bits & Bytes
 
 3. Wer sind wir  
+
 3.1. Leitlinien & Aufbau
 
-4. Kraut & Korn  
+4. Kraut & Korn 
+
 4.1. Getränkemarkt als Beispiel
 
 5. Organigramm besprechen
+
 5.1. Ansprechpartner klären („Wer macht was?“)  
 5.2. Ablauf bei Fragen & Situationen  
 5.3. Kärtchen mit Farben für Ansprechpartner  
 5.4. Kürzel & Farben für den Flur
 
 6. Szenario: [E-Mail von Kunden](https://3251.drive.bycs.de/f/fe6c2188-1774-485d-ab89-c701419b6d71$3abfa5f1-9d00-4988-b4d0-cb5c5581816b%2124a61913-c5ab-4003-abfd-dd985d930c30)
+
 6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
 6.2. Lösung: Datenschutzkonformes Überwachungskonzept
 
 7. Nächster Tag: Meeting
+
 7.1. On-Premises  
 7.2. Differenzierung & Analyse (Nutzwertanalyse, Prototyp)  
 7.3. Investition aufgrund Lage von Bauteilen  
 7.4. IPv6-Schulung anhand des Netzwerks
 
-9. Zusammenfassung
+8. Zusammenfassung
 8.1. IPv6-Zertifizierung
 
 </details>
@@ -95,6 +105,7 @@ page9, e.
 </summary>
 
 2. Brainstorming
+
 2.1. Unverschlossene Türen  
 2.2. Zutritt auf werksgelände: Bewegung/Geräusche&Sound
 2.3. Temperatur kälteräume
