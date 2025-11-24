@@ -1,4 +1,4 @@
-<details><summary>Montag: 24.11(November).25</summary>
+<summary>Montag: 24.11(November).25</summary>
 
 <summary>
 
@@ -23,5 +23,3 @@
 13. quantity
 
 <h3>3a:</h3>
-
-</details>
