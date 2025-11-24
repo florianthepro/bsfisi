@@ -10,40 +10,40 @@
 
 2c:
 
-   - 1. enquiries
-   - 2. general
-   - 3. specific
-   - 4. information
-   - 5. current catalogue
-   - 6. price list
-   - 7. request
-   - 8. sample
-   - 9. offer
-   - 10. delivery
-   - 11. payment
-   - 12. available
-   - 13. quantity
+   - 2c.1. enquiries
+   - 2c.2. general
+   - 2c.3. specific
+   - 2c.4. information
+   - 2c.5. current catalogue
+   - 2c.6. price list
+   - 2c.7. request
+   - 2c.8. sample
+   - 2c.9. offer
+   - 2c.10. delivery
+   - 2c.11. payment
+   - 2c.12. available
+   - 2c.13. quantity
 
 3a:
 
-Have  you  ever  been  in  a  similar situation? What was your reaction?
+   - 3a.1. Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 3b:
 
-   - 1. Mediapark
-   - 2. Purchasing Department
-   - 3. Becous somthing wrent completly wrong
-   - 4. No Discord, wrong quantity
-   - 5. 13.February
-   - 6. 5oo
-   - 7. Write up everything right and get back to her
-   - 8. Stay by Costumer
+   - 3b.1. Mediapark
+   - 3b.2. Purchasing Department
+   - 3b.3. Becous somthing wrent completly wrong
+   - 3b.4. No Discord, wrong quantity
+   - 3b.5. 13.February
+   - 3b.6. 5oo
+   - 3b.7. Write up everything right and get back to her
+   - 3b.8. Stay by Costumer
 
 3c:
 
-   - 1. bad gravity, delivery times, no discount, wrong items, not as advertised
-   - 2. order numbers, invaice number, company details, description of issue, date
-   - .3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
+   - 3c.1. bad gravity, delivery times, no discount, wrong items, not as advertised
+   - 3c.2. order numbers, invaice number, company details, description of issue, date
+   - 3c.3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
 
 page9, e:
 
