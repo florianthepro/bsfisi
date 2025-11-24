@@ -162,7 +162,7 @@ page9, e.
 
 1.2. Aktor (Homassitent)
 
-2. Nutzertanalyse auf ![papier](https://github.com/florianthepro/bsfisi/blob/main/WhatsApp%20Bild%202025-11-24%20um%2014.40.10_446d117a.jpg)
+2. Nutzertanalyse auf [papier](https://github.com/florianthepro/bsfisi/blob/main/WhatsApp%20Bild%202025-11-24%20um%2014.40.10_446d117a.jpg)
 
 ![3. Probe:](https://img.shields.io/badge/Achtung-kritisch-red)
 
