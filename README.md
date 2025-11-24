@@ -9,7 +9,6 @@
 </summary>
 
 2c:
-
    - 2c.1. enquiries
    - 2c.2. general
    - 2c.3. specific
@@ -25,11 +24,9 @@
    - 2c.13. quantity
 
 3a:
-
    - 3a.1. Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 3b:
-
    - 3b.1. Mediapark
    - 3b.2. Purchasing Department
    - 3b.3. Becous somthing wrent completly wrong
@@ -40,7 +37,6 @@
    - 3b.8. Stay by Costumer
 
 3c:
-
    - 3c.1. bad gravity, delivery times, no discount, wrong items, not as advertised
    - 3c.2. order numbers, invaice number, company details, description of issue, date
    - 3c.3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
