@@ -51,9 +51,11 @@ Conversation
 
 </details></details>
 
->11:45–12:30 · GLU · Raum Aula-Klein · HAR · [Modul 3](https://3251.drive.bycs.de/files/spaces/share/Vorlage/GLU/Modul%203?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&sort-by=name&sort-dir=asc&items-per-page=100&files-spaces-generic-view-mode=resource-table&tiles-size=2&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653)
+<details><summary>
 
-<details><summary>Vorstellung Modul 3</summary>
+>11:45–12:30 · GLU · Raum Aula-Klein · HAR · [Vorstellung Modul 3](https://3251.drive.bycs.de/files/spaces/share/Vorlage/GLU/Modul%203?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&sort-by=name&sort-dir=asc&items-per-page=100&files-spaces-generic-view-mode=resource-table&tiles-size=2&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653)
+
+</summary>
 
 1. Allgemeine Vorstellung
 2. Rückblick / Wiederholung  
