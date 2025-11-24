@@ -39,12 +39,10 @@ Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 1. bad gravity, delivery times, no discount, wrong items, not as advertised
 2. order numbers, invaice number, company details, description of issue, date
-3. 
+3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
 
 </details><details><summary>page9, e:</summary>
 
-1. bad gravity, delivery times, no discount, wrong items, not as advertised
-2. order numbers, invaice number, company details, description of issue, date
-3. 
+Conversation
 
 </details>
