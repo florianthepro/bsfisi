@@ -51,23 +51,31 @@ Conversation
 
 <details><summary>Einleitung</summary>
 
-1. Allgemeine Vorstellung
-2. Rückblick: Widerholung: Subnetting DB ER SLA Bit&Bytes
-3. Wer sind wir: Leitlinen Aufbau
-4. Kraut&Korn - ist getränkemarkt
-5. Organigramm Besprechen:
-5.2. Fragen wer was - ansprechpartner
-5.3. Ablauf fragen Situationen
-5.4. Kärtchen mit farben für ansprechpartner:
-5.4.2. Kürzel&Farbe&Für auf flur
-6. Zenario Email von Kunden:
-6.2. Meldung: vorfall diebstahlsystem nicht vorhanden: sicherheitsgefärdung/vorfall
-6.3. Lösung: datenschutzkonformes Überwachungskonzept
-7. Nächster tag: meeting: On Premis, Differnzirung, analyse Nutzwertanalyse - prototyp, Investiton aufgrund lage von bauteilen, >IPv6 schulung anhand des netzwerks
-8. Zusammenfassung IPv6 Zetifizirung
-
-</details><summary>dummy</summary>
-
-1. dummy
+1. **Allgemeine Vorstellung**
+2. **Rückblick / Wiederholung**  
+   - Subnetting  
+   - Datenbanken (DB)  
+   - Entity-Relationship (ER)  
+   - SLA  
+   - Bits & Bytes
+3. **Wer sind wir**  
+   - Leitlinien & Aufbau
+4. **Kraut & Korn**  
+   - Getränkemarkt als Beispiel
+5. **Organigramm besprechen**
+   - 5.1. Ansprechpartner klären („Wer macht was?“)  
+   - 5.2. Ablauf bei Fragen & Situationen  
+   - 5.3. Kärtchen mit Farben für Ansprechpartner  
+   - 5.4. Kürzel & Farben für den Flur
+6. **Szenario: E-Mail von Kunden**
+   - 6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
+   - 6.2. Lösung: Datenschutzkonformes Überwachungskonzept
+7. **Nächster Tag: Meeting**
+   - On-Premises  
+   - Differenzierung & Analyse (Nutzwertanalyse, Prototyp)  
+   - Investition aufgrund Lage von Bauteilen  
+   - IPv6-Schulung anhand des Netzwerks
+8. **Zusammenfassung**  
+   - IPv6-Zertifizierung
 
 </details>
