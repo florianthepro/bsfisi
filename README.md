@@ -146,9 +146,9 @@ page9, e.
 
 2.4. Geöffneter Tressoraum
    
-4. Eintreffen von Sensordaten im Zentralen Meldesystem
+3. Eintreffen von Sensordaten im Zentralen Meldesystem
    
-5. Besprechen
+4. Besprechen
 
 <details><summary>
 
@@ -169,3 +169,5 @@ page9, e.
 3.1. Revwiew lernen
 
 3.2. Pi Programmiren
+
+4. Note MCU anschauen - kennenlernen
