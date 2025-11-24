@@ -24,13 +24,13 @@ Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 <h3>3b:</h3>
 
-1. d
-2. d
-3. d
-4. d
+1. Media-
+2. Costumer Support
+3. Becous somthing wrent completly wrong
+4. No Discord wrong quantity
 5. 15. November
 6. d
-7. d
+7. Write up everything right and get back to her
 8. d
 
 </details>
