@@ -47,9 +47,9 @@ Conversation
 
 </details>
 
->11:45–12:30 · GLU · Raum Aula-Klein · HAR · [Modul3]() Vorstellung Modul 3
+>11:45–12:30 · GLU · Raum Aula-Klein · HAR · Allgemeine Vorstellung Modul 3
 
-<details><summary>Einleitung</summary>
+<details><summary>Vorstellung Modul 3</summary>
 
 1. Allgemeine Vorstellung
 2. Rückblick / Wiederholung  
