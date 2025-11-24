@@ -8,48 +8,48 @@
 
 </summary>
 
-<details><summary>2c:</summary>
+2c:
 
-1. enquiries
-2. general
-3. specific
-4. information
-5. current catalogue
-6. price list
-7. request
-8. sample
-9. offer
-10. delivery
-11. payment
-12. available
-13. quantity
+   - 1. enquiries
+   - 2. general
+   - 3. specific
+   - 4. information
+   - 5. current catalogue
+   - 6. price list
+   - 7. request
+   - 8. sample
+   - 9. offer
+   - 10. delivery
+   - 11. payment
+   - 12. available
+   - 13. quantity
 
-</details><details><summary>3a:</summary>
+3a:
 
 Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 </details><details><summary>3b:</summary>
 
-1. Mediapark
-2. Purchasing Department
-3. Becous somthing wrent completly wrong
-4. No Discord, wrong quantity
-5. 13.February
-6. 5oo
-7. Write up everything right and get back to her
-8. Stay by Costumer
+   - 1. Mediapark
+   - 2. Purchasing Department
+   - 3. Becous somthing wrent completly wrong
+   - 4. No Discord, wrong quantity
+   - 5. 13.February
+   - 6. 5oo
+   - 7. Write up everything right and get back to her
+   - 8. Stay by Costumer
 
-</details><details><summary>3c:</summary>
+3c:
 
-1. bad gravity, delivery times, no discount, wrong items, not as advertised
-2. order numbers, invaice number, company details, description of issue, date
-3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
+   - 1. bad gravity, delivery times, no discount, wrong items, not as advertised
+   - 2. order numbers, invaice number, company details, description of issue, date
+   - 3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
 
-</details><details><summary>page9, e:</summary>
+page9, e:
 
-Conversation
+   - Conversation
 
-</details></details>
+</details>
 
 <details><summary>
 
