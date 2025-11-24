@@ -28,7 +28,7 @@
 
 Have  you  ever  been  in  a  similar situation? What was your reaction?
 
-</details><details><summary>3b:</summary>
+3b:
 
    - 1. Mediapark
    - 2. Purchasing Department
