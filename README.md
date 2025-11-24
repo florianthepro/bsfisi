@@ -150,6 +150,8 @@ page9, e.
    
 4. Besprechen
 
+</details>
+
 <details><summary>
 
 >14:00–13:15 · GLU · Raum 1.3.19 · HOL · [Nutzwertanalyse](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/021_GLU%20Modul%203%20-%20Erstellung%20einer%20Nutzwertanalyse%20-%20DIN-A3.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%218821147e-7ab1-46b8-aa4f-7fa9c8b0b62e&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) nutzwerkanalyse auf din A3 papier
