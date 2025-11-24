@@ -73,7 +73,7 @@ page9, e:
    - 5.2. Ablauf bei Fragen & Situationen  
    - 5.3. Kärtchen mit Farben für Ansprechpartner  
    - 5.4. Kürzel & Farben für den Flur
-6. Szenario: E-Mail von Kunden
+6. Szenario: [E-Mail von Kunden](https://3251.drive.bycs.de/f/fe6c2188-1774-485d-ab89-c701419b6d71$3abfa5f1-9d00-4988-b4d0-cb5c5581816b%2124a61913-c5ab-4003-abfd-dd985d930c30)
    - 6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
    - 6.2. Lösung: Datenschutzkonformes Überwachungskonzept
 7. Nächster Tag: Meeting
