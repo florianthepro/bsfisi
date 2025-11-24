@@ -94,15 +94,15 @@ page9, e.
 
 </summary>
 
-2. Brainstorming:
-2.1. Unverschlossene Türen
+2. Brainstorming
+2.1. Unverschlossene Türen  
 2.2. Zutritt auf werksgelände: Bewegung/Geräusche&Sound
 2.3. Temperatur kälteräume
 2.4. Geöffneter Tressoraum
    
-3. Eintreffen von Sensordaten im Zentralen Meldesystem
+4. Eintreffen von Sensordaten im Zentralen Meldesystem
    
-4. Besprechen
+5. Besprechen
 
 <details><summary>
 
