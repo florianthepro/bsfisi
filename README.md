@@ -1,8 +1,8 @@
 <summary>Montag: 24.11(November).25</summary>
 
 <summary>
-
-10:15-11:45|eng|1.3.19|REB|[Letter Writing](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/E11/LetterWriting_script_Reb_0925.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21ac849a4f-82e1-44d7-bc09-264566743ad0&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FE11&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21c7203024-a33b-43e2-aac2-8924e4055736&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) aufgabe 2c/3a/
+  
+  10:15-11:45|eng|1.3.19|REB|[Letter Writing](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/E11/LetterWriting_script_Reb_0925.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21ac849a4f-82e1-44d7-bc09-264566743ad0&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FE11&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21c7203024-a33b-43e2-aac2-8924e4055736&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) aufgabe 2c/3a/
 
 </summary>
 
