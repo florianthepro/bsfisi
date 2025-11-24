@@ -18,11 +18,11 @@
 12. available
 13. quantity
 
-<details><summary>3a:</summary>
+</details><details><summary>3a:</summary>
 
 Have  you  ever  been  in  a  similar situation? What was your reaction?
 
-<details><summary>3b:</summary>
+</details><details><summary>3b:</summary>
 
 1. Mediapark
 2. Purchasing Department
@@ -33,4 +33,4 @@ Have  you  ever  been  in  a  similar situation? What was your reaction?
 7. Write up everything right and get back to her
 8. d
 
-</details></details></details></details>
+</details></details>
