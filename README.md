@@ -66,4 +66,8 @@ Conversation
 7. Nächster tag: meeting: On Premis, Differnzirung, analyse Nutzwertanalyse - prototyp, Investiton aufgrund lage von bauteilen, >IPv6 schulung anhand des netzwerks
 8. Zusammenfassung IPv6 Zetifizirung
 
+</details><summary>dummy</summary>
+
+1. dummy
+
 </details>
