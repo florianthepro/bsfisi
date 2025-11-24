@@ -8,41 +8,41 @@
 
 </summary>
 
-2c:
-   - 2c.1. enquiries
-   - 2c.2. general
-   - 2c.3. specific
-   - 2c.4. information
-   - 2c.5. current catalogue
-   - 2c.6. price list
-   - 2c.7. request
-   - 2c.8. sample
-   - 2c.9. offer
-   - 2c.10. delivery
-   - 2c.11. payment
-   - 2c.12. available
-   - 2c.13. quantity
+2c.
+2c.1. enquiries
+2c.2. general
+2c.3. specific
+2c.4. information
+2c.5. current catalogue
+2c.6. price list
+2c.7. request
+2c.8. sample
+2c.9. offer
+2c.10. delivery
+2c.11. payment
+2c.12. available
+2c.13. quantity
 
 3a.
-   - 3a.1. Have  you  ever  been  in  a  similar situation? What was your reaction?
+3a.1. Have  you  ever  been  in  a  similar situation? What was your reaction?
 
 3b.
-   - 3b.1. Mediapark
-   - 3b.2. Purchasing Department
-   - 3b.3. Becous somthing wrent completly wrong
-   - 3b.4. No Discord, wrong quantity
-   - 3b.5. 13.February
-   - 3b.6. 5oo
-   - 3b.7. Write up everything right and get back to her
-   - 3b.8. Stay by Costumer
+3b.1. Mediapark
+3b.2. Purchasing Department
+3b.3. Becous somthing wrent completly wrong
+3b.4. No Discord, wrong quantity
+3b.5. 13.February
+3b.6. 5oo
+3b.7. Write up everything right and get back to her
+3b.8. Stay by Costumer
 
 3c.
-   - 3c.1. bad gravity, delivery times, no discount, wrong items, not as advertised
-   - 3c.2. order numbers, invaice number, company details, description of issue, date
-   - 3c.3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
+3c.1. bad gravity, delivery times, no discount, wrong items, not as advertised
+3c.2. order numbers, invaice number, company details, description of issue, date
+3c.3. e preite, asgne with reason, evidence (pictures), detailed discribtion, solution!
 
 page9, e.
-   - e. Conversation
+   - Conversation
 
 </details>
 
@@ -53,31 +53,38 @@ page9, e.
 </summary>
 
 1. Allgemeine Vorstellung
+
 2. Rückblick / Wiederholung  
-   - Subnetting  
-   - Datenbanken (DB)  
-   - Entity-Relationship (ER)  
-   - SLA  
-   - Bits & Bytes
+2.1. Subnetting  
+2.2. Datenbanken (DB)  
+2.3. Entity-Relationship (ER)  
+2.4. SLA  
+2.5. Bits & Bytes
+
 3. Wer sind wir  
-   - Leitlinien & Aufbau
+3.1. Leitlinien & Aufbau
+
 4. Kraut & Korn  
-   - Getränkemarkt als Beispiel
+4.1. Getränkemarkt als Beispiel
+
 5. Organigramm besprechen
-   - 5.1. Ansprechpartner klären („Wer macht was?“)  
-   - 5.2. Ablauf bei Fragen & Situationen  
-   - 5.3. Kärtchen mit Farben für Ansprechpartner  
-   - 5.4. Kürzel & Farben für den Flur
+5.1. Ansprechpartner klären („Wer macht was?“)  
+5.2. Ablauf bei Fragen & Situationen  
+5.3. Kärtchen mit Farben für Ansprechpartner  
+5.4. Kürzel & Farben für den Flur
+
 6. Szenario: [E-Mail von Kunden](https://3251.drive.bycs.de/f/fe6c2188-1774-485d-ab89-c701419b6d71$3abfa5f1-9d00-4988-b4d0-cb5c5581816b%2124a61913-c5ab-4003-abfd-dd985d930c30)
-   - 6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
-   - 6.2. Lösung: Datenschutzkonformes Überwachungskonzept
+6.1. Meldung: Vorfall – Diebstahlsystem nicht vorhanden → Sicherheitsgefährdung/Vorfall  
+6.2. Lösung: Datenschutzkonformes Überwachungskonzept
+
 7. Nächster Tag: Meeting
-   - On-Premises  
-   - Differenzierung & Analyse (Nutzwertanalyse, Prototyp)  
-   - Investition aufgrund Lage von Bauteilen  
-   - IPv6-Schulung anhand des Netzwerks
-8. Zusammenfassung
-   - IPv6-Zertifizierung
+7.1. On-Premises  
+7.2. Differenzierung & Analyse (Nutzwertanalyse, Prototyp)  
+7.3. Investition aufgrund Lage von Bauteilen  
+7.4. IPv6-Schulung anhand des Netzwerks
+
+9. Zusammenfassung
+8.1. IPv6-Zertifizierung
 
 </details>
 
@@ -88,8 +95,20 @@ page9, e.
 </summary>
 
 2. Brainstorming:
-   - 2.2. Unverschlossene Türen
-   - 2.3. Zutritt auf werksgelände: Bewegung/Geräusche&Sound
-   - 2.4. Temperatur kälteräume
-   - 2.5. Geöffneter Tressoraum
+2.1. Unverschlossene Türen
+2.2. Zutritt auf werksgelände: Bewegung/Geräusche&Sound
+2.3. Temperatur kälteräume
+2.4. Geöffneter Tressoraum
+   
 3. Eintreffen von Sensordaten im Zentralen Meldesystem
+   
+4. Besprechen
+
+<details><summary>
+
+>14:00–13:15 · GLU · Raum 1.3.19 · HOL · [Skript ]() aufgaben 1/2/3/
+
+</summary>
+
+1. Sensor
+2. Aktor
