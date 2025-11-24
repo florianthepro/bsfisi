@@ -56,8 +56,14 @@ Conversation
 3. Wer sind wir: Leitlinen Aufbau
 4. Kraut&Korn - ist getränkemarkt
 5. Organigramm Besprechen:
-  1. Fragen wer was - ansprechpartner
-  2. Ablauf fragen Situationen
-  3. 
+5.2. Fragen wer was - ansprechpartner
+5.3. Ablauf fragen Situationen
+5.4. Kärtchen mit farben für ansprechpartner:
+5.4.2. Kürzel&Farbe&Für auf flur
+6. Zenario Email von Kunden:
+6.2. Meldung: vorfall diebstahlsystem nicht vorhanden: sicherheitsgefärdung/vorfall
+6.3. Lösung: datenschutzkonformes Überwachungskonzept
+7. Nächster tag: meeting: On Premis, Differnzirung, analyse Nutzwertanalyse - prototyp, Investiton aufgrund lage von bauteilen, >IPv6 schulung anhand des netzwerks
+8. Zusammenfassung IPv6 Zetifizirung
 
 </details>
