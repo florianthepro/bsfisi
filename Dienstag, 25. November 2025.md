@@ -42,4 +42,6 @@ Page 3:
 
 5.1.3 Tiere sind nach grundgesetz objekte ohne würde nur der tierschutz paragraph bildet eine ausnahme
 
+6. Entstehung grundgesetz BRD unter der CDU mit eingriff der Allirten
+
 </details>
