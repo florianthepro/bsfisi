@@ -154,7 +154,7 @@ page9, e.
    
 1.1. Sensor
 
-1.2. Aktor (Homassitent) Zentrae anlaufstelle
+1.2. Aktor (Homassitent, ardeino, buzzer) Zentrae anlaufstelle
 
 2. Nutzertanalyse auf ![Nutzwertanalyse](https://github.com/florianthepro/bsfisi/blob/files/241125-01.png)
 
