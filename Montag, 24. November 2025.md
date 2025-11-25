@@ -67,9 +67,7 @@
 page9, e.
    - Conversation
 
-</details>
-
-<details><summary>
+</details><details><summary>
 
 >11:45–12:30 · GLU · Raum Aula-Klein · HAR · [Vorstellung Modul 3](https://3251.drive.bycs.de/files/spaces/share/Vorlage/GLU/Modul%203?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&sort-by=name&sort-dir=asc&items-per-page=100&files-spaces-generic-view-mode=resource-table&tiles-size=2&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653)
 
@@ -126,9 +124,7 @@ page9, e.
 8. Zusammenfassung
 8.1. IPv6-Zertifizierung
 
-</details>
-
-<details><summary>
+</details><details><summary>
 
 >12:30–13:15 · GLU · Raum 1.3.19 · BER · [Skript aufgaben unten](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/015_GLU-Arbeitsauftrag%20innerhalb%20der%20Firma%20Bit&Byte%20GmbH.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2124a61913-c5ab-4003-abfd-dd985d930c30&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) aufgaben 1/2/3/
 
@@ -148,11 +144,9 @@ page9, e.
    
 4. Besprechen
 
-</details>
+</details><details><summary>
 
-<details><summary>
-
->14:00–16:15 · GLU/WH · Raum 1.3.19 · HOL · [Nutzwertanalyse](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/021_GLU%20Modul%203%20-%20Erstellung%20einer%20Nutzwertanalyse%20-%20DIN-A3.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%218821147e-7ab1-46b8-aa4f-7fa9c8b0b62e&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) nutzwerkanalyse auf din A3 papier
+>14:00–14:45 · GLU · Raum 1.3.19 · HOL · [Nutzwertanalyse](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/021_GLU%20Modul%203%20-%20Erstellung%20einer%20Nutzwertanalyse%20-%20DIN-A3.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%218821147e-7ab1-46b8-aa4f-7fa9c8b0b62e&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) nutzwerkanalyse auf din A3 papier
 
 </summary>
 
@@ -170,7 +164,12 @@ page9, e.
 
 3.2. Note MCU Programmiren
 
-4. [Note MCU anschauen - kennenlernen](https://lernplattform.mebis.bycs.de/mod/folder/view.php?id=82109479)
+</details><details><summary>
 
-4.1. Grundlegende Einrichtung der Ardeino Entwicklungsumgebung nach skriptvorgabe durchgefürt, minni skript zum testen der LED des Node MCU benutzt benutzt
+>14:45–16:15 · WH · Raum 1.3.19 · HOL · [Note MCU anschauen - kennenlernen](https://lernplattform.mebis.bycs.de/mod/folder/view.php?id=82109479) nutzwerkanalyse auf din A3 papier
 
+</summary>
+
+1. Grundlegende Einrichtung der Ardeino Entwicklungsumgebung nach skriptvorgabe durchgefürt, minni skript zum testen der LED des Node MCU benutzt benutzt
+
+</details>
