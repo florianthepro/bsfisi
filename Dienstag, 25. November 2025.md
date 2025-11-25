@@ -12,7 +12,7 @@
 
 4. Prozessbeschreibung etc(mebis) abgeben und dann rewiew
 
-[Mebis Kurs](https://lernplattform.mebis.bycs.de/course/view.php?id=2306815) · [Skript](https://lernplattform.mebis.bycs.de/pluginfile.php/112988884/mod_resource/content/8/Modul11-3_Hol%2CWo_Arduino_IDE_17.09.2024_S.3.pdf)
+[Mebis Kurs](https://lernplattform.mebis.bycs.de/course/view.php?id=2306815) · ![Skript](https://github.com/florianthepro/bsfisi/blob/files/Modul11-3_Hol%2CWo_Arduino_IDE_17.09.2024_S.3.pdf)
 
 Page 3:
 
