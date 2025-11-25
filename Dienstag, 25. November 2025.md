@@ -34,6 +34,6 @@ Page 3:
 
 5. was ist würde?
 
-6. 
+5.1. Religons und Meinungsfreiheit, Schutz Vor diskreminirung, Respekt, Unantastbarer wert, Grundgesetz mit menschenrechten
 
 </details>
