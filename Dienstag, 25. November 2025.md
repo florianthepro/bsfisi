@@ -28,11 +28,11 @@ Page 3:
 
 2. Lustiges mänchen Grundi (Grundgesetzt)
 
-3. Allgemeine Grundegesetze besprechen (1-3)
+3. Welcher rechte gebe ich beim wehrdienst ab?
 
-4. was ist wrde?
+4. Allgemeine Grundegesetze besprechen (1-3)
 
-5. Welcher rechte gebe ich beim wehrdienst ab?
+5. was ist würde?
 
 6. 
 
