@@ -171,3 +171,6 @@ page9, e.
 3.2. Pi Programmiren
 
 4. [Note MCU anschauen - kennenlernen](https://lernplattform.mebis.bycs.de/mod/folder/view.php?id=82109479)
+
+4.1. Grundlegende Einrichtung der Ardeino Entwicklungsumgebung nach skriptvorgabe durchgefürt, minni skript zum testen der LED des Node MCU benutzt benutzt
+
