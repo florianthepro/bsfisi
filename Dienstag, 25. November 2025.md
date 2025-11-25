@@ -44,4 +44,6 @@ Page 3:
 
 6. Entstehung grundgesetz BRD unter der CDU mit eingriff der Allirten
 
+6.1. Vorgabe durch Frankfurter Dokumente wichtige vorgaben der Allirten
+
 </details>
