@@ -36,14 +36,14 @@ Page 3:
 
 5.1. Religons und Meinungsfreiheit, Schutz Vor diskreminirung, Respekt, Unantastbarer wert, Grundgesetz mit menschenrechten, Wahrung der Persönlichen identiggrität, 
 
-5.1.1. WÜrde = Wert des menschen
+     5.1.1. WÜrde = Wert des menschen
 
-5.1.2 Würde kann nicht verloren gehen(wert schon) und nicht mehr sein als die eines anderen
+     5.1.2 Würde kann nicht verloren gehen(wert schon) und nicht mehr sein als die eines anderen
 
-5.1.3 Tiere sind nach grundgesetz objekte ohne würde nur der tierschutz paragraph bildet eine ausnahme
+     5.1.3 Tiere sind nach grundgesetz objekte ohne würde nur der tierschutz paragraph bildet eine ausnahme
 
 6. Entstehung grundgesetz BRD unter der CDU mit eingriff der Allirten
 
-6.1. Vorgabe durch Frankfurter Dokumente wichtige vorgaben der Allirten
+     6.1. Vorgabe durch Frankfurter Dokumente wichtige vorgaben der Allirten
 
 </details>
