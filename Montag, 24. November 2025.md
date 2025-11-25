@@ -1,4 +1,4 @@
->Created: Montag, 24. November 2025 · 10:15 · FlorianK --- · --- Last Change: Montag, 24. November 2025 · 10:15 · FlorianK
+>Created: Montag, 24. November 2025 · 10:15 · FlorianK --- · --- Last Change: Dienstag, 24. November 2025 · 10:15 · FlorianK
 
 <details><summary>
 
@@ -152,7 +152,7 @@ page9, e.
 
 <details><summary>
 
->14:00–13:15 · GLU · Raum 1.3.19 · HOL · [Nutzwertanalyse](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/021_GLU%20Modul%203%20-%20Erstellung%20einer%20Nutzwertanalyse%20-%20DIN-A3.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%218821147e-7ab1-46b8-aa4f-7fa9c8b0b62e&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) nutzwerkanalyse auf din A3 papier
+>14:00–16:15 · GLU/WH · Raum 1.3.19 · HOL · [Nutzwertanalyse](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/021_GLU%20Modul%203%20-%20Erstellung%20einer%20Nutzwertanalyse%20-%20DIN-A3.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%218821147e-7ab1-46b8-aa4f-7fa9c8b0b62e&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) nutzwerkanalyse auf din A3 papier
 
 </summary>
 
@@ -160,7 +160,7 @@ page9, e.
    
 1.1. Sensor
 
-1.2. Aktor (Homassitent)
+1.2. Aktor (Homassitent) Zentrae anlaufstelle
 
 2. Nutzertanalyse auf [papier](https://github.com/florianthepro/bsfisi/blob/main/WhatsApp%20Bild%202025-11-24%20um%2014.40.10_446d117a.jpg)
 
@@ -168,7 +168,7 @@ page9, e.
 
 3.1. [Revwiew](https://3251.drive.bycs.de/external-bycs-office/share/Vorlage/GLU/Modul%203/900_z_GLU%20Modul3-Arbeitsauftrag%20und%20Fragen-Review%20zur%20Nutzwertanalyse%20Technische%20Grundlagen_v01.pdf?shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21076d8c57-4966-4756-93df-34eec89ce932&contextRouteName=files-spaces-generic&contextRouteParams.driveAliasAndItem=share%2FVorlage%2FGLU%2FModul%203&contextRouteQuery.fileId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%21e8800087-84c3-4d40-8d86-0df6e4082653&contextRouteQuery.shareId=fe6c2188-1774-485d-ab89-c701419b6d71%243abfa5f1-9d00-4988-b4d0-cb5c5581816b%2189bc8ab1-aef9-4d6b-a001-1493fb4c92a7&contextRouteQuery.sort-by=name&contextRouteQuery.sort-dir=asc) lernen
 
-3.2. Pi Programmiren
+3.2. Note MCU Programmiren
 
 4. [Note MCU anschauen - kennenlernen](https://lernplattform.mebis.bycs.de/mod/folder/view.php?id=82109479)
 
