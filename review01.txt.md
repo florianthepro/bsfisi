@@ -62,29 +62,29 @@ Sicherheit & Integration:
 
 <details><summary>Checkliste fuer Review 01</summary>
 
-[ ] NodeMCU: Eigenschaften verstanden, Pins/Interfaces identifiziert
+- [ ] NodeMCU: Eigenschaften verstanden, Pins/Interfaces identifiziert
 
-[ ] Arduino IDE: Installation fertig, Board/Port korrekt eingestellt
+- [ ] Arduino IDE: Installation fertig, Board/Port korrekt eingestellt
 
-[ ] Test-Sketch: Serial-Ausgabe und einfacher GPIO-Test erfolgreich
+- [ ] Test-Sketch: Serial-Ausgabe und einfacher GPIO-Test erfolgreich
 
-[ ] Ueberwachungsplan: Zielzustand, Prozesse, Verantwortlichkeiten skizziert
+- [ ] Ueberwachungsplan: Zielzustand, Prozesse, Verantwortlichkeiten skizziert
 
-[ ] Kriterienkatalog fuer Nutzwertanalyse: final und begruendet
+- [ ] Kriterienkatalog fuer Nutzwertanalyse: final und begruendet
 
-[ ] Bewertungstabelle: drei Produkte nach Kriterien verglichen
+- [ ] Bewertungstabelle: drei Produkte nach Kriterien verglichen
 
-[ ] Entscheidungsmatrix: Ergebnis und klare Begruendung dokumentiert
+- [ ] Entscheidungsmatrix: Ergebnis und klare Begruendung dokumentiert
 
-[ ] Bezugspreistabelle: Struktur, Bezugsmenge, Rabatte/Skonto beruecksichtigt
+- [ ] Bezugspreistabelle: Struktur, Bezugsmenge, Rabatte/Skonto beruecksichtigt
 
-[ ] Sicherheitskonzept: Datenschutz, Verschluesselung, Bedrohungsszenarien
+- [ ] Sicherheitskonzept: Datenschutz, Verschluesselung, Bedrohungsszenarien
 
-[ ] Integrationsplan: Komponentenliste, Schnittstellen, Risiken/Mitigation
+- [ ] Integrationsplan: Komponentenliste, Schnittstellen, Risiken/Mitigation
 
-[ ] Reaktionszeit: Mess- und Optimierungsansatz definiert
+- [ ] Reaktionszeit: Mess- und Optimierungsansatz definiert
 
-[ ] Serielle Monitor-Nutzung: Debug-Plan und Log-Formate festgelegt
+- [ ] Serielle Monitor-Nutzung: Debug-Plan und Log-Formate festgelegt
 
 </details>
 
