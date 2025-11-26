@@ -61,6 +61,7 @@ Sicherheit & Integration:
 </details>
 
 <details><summary>Checkliste fuer Review 01</summary>
+'''
 
 [ ] NodeMCU: Eigenschaften verstanden, Pins/Interfaces identifiziert
 [ ] Arduino IDE: Installation fertig, Board/Port korrekt eingestellt
@@ -87,6 +88,8 @@ Sicherheit & Integration:
 - Welche Integrationsrisiken sind kritisch (z. B. EMV, Netzwerkausfall) und wie mitigieren wir sie?
 - Wie stellen wir Erweiterbarkeit sicher (Modul-Design, Topic-Namen, API/Protokolle)?
 
+<details><summary>Deep</summary>
+
 ========================================
 Status und naechste Schritte
 ========================================
@@ -102,3 +105,7 @@ Naechste Schritte:
 3) Prototyp: Basis-Sensorik anbinden, serielle Logs testen
 4) Sicherheits-Implementierung: erste Verschluesselungskette validieren
 5) Reaktionszeit messen und optimieren (Debounce, Interrupts, Netzwerkpfad)
+
+</details>
+
+</details>
