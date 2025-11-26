@@ -48,4 +48,34 @@ Page 3:
 
 7. Würde entherung diskriminirung etc
 
+</details><details><summary>
+ 
+>10:15–10:45 · SP · Raum Halle1 · HB
+
+</summary>
+
+Aufwärmen: 30-40 min Hocky mit dings
+
+Spiel: ca 60 min tischtennis
+
+</details><details><summary>
+
+>12:30–14:00 · GLU · Raum 1.3.19 · HAR/BER
+
+</summary>
+
+UML: aufbau überwachungsystem vervollständigt: 
+TESTING: Skript in Ardeino vervollständig/gestestet
+Mebiskurse: 3 vervollständigt
+
+</details><details><summary>
+
+>14:00–14:45 · EN · Raum 1.3.19 · REB
+
+</summary>
+
+Test: Busniss Letter
+
 </details>
+
+>15:00–17:15 · Cisco · Raum 2.3.17 · ME
