@@ -1,16 +1,10 @@
-review01.txt
-
-========================================
 >Projekt: Intelligente Alarmanlage - Kraut & Korn GmbH
 Datei: review01
 Version: 1.0
 Datum: 2025-11-26
 Autor: FlorianK
 
-========================================
-Einleitung
-========================================
-Ziel dieses Reviews ist die Zusammenfassung der ersten Arbeitspakete:
+Ziel dieses Reviews ist die Zusammenfassung der ersten Arbeitspakete von Mebis:
 - NodeMCU Eigenschaften verstehen und Anforderungen ableiten
 - Arduino IDE einrichten und erste Nutzung
 - Ueberwachungsplan und Prozessbeschreibung vorbereiten
