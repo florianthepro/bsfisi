@@ -10,9 +10,8 @@ Ziel dieses Reviews ist die Zusammenfassung der ersten Arbeitspakete von Mebis:
 - Ueberwachungsplan und Prozessbeschreibung vorbereiten
 - Review: Nutzwertanalyse, Entscheidungsmatrix, technische Grundlagen, Sicherheit und Integration
 
-========================================
-Inhalte des ersten Reviews
-========================================
+<details><summary>Inhalte des ersten Reviews</summary>
+
 1) NodeMCU und Eigenschaften (30 min)
    - Mikrocontroller-Board mit WLAN (ESP8266/ESP32, je nach Board)
    - Anbindung von Sensoren/Aktoren ueber GPIO, I2C, SPI
@@ -28,9 +27,10 @@ Inhalte des ersten Reviews
    - Vorbereitung Fachgespraech (Lehrkraft, Kunde)
    - Entscheidungsmatrix durchgehen und begruenden
 
-========================================
-Themenbloecke und Leitfragen
-========================================
+</details>
+
+<details><summary>Leitfragen</summary>
+
 Nutzwertanalyse:
 - Was ist die Nutzwertanalyse und warum wichtig?
 - Welche Kriterien sind definiert (z. B. Kosten, Sicherheit, Erweiterbarkeit, Integration)?
@@ -58,9 +58,10 @@ Sicherheit & Integration:
 - Integrationsherausforderungen (Kompatibilitaet, Timing, Stromversorgung)
 - Zukunftssichere, erweiterbare Architektur
 
-========================================
-Checkliste fuer Review 01
-========================================
+</details>
+
+<details><summary>Checkliste fuer Review 01</summary>
+
 [ ] NodeMCU: Eigenschaften verstanden, Pins/Interfaces identifiziert
 [ ] Arduino IDE: Installation fertig, Board/Port korrekt eingestellt
 [ ] Test-Sketch: Serial-Ausgabe und einfacher GPIO-Test erfolgreich
@@ -74,21 +75,10 @@ Checkliste fuer Review 01
 [ ] Reaktionszeit: Mess- und Optimierungsansatz definiert
 [ ] Serielle Monitor-Nutzung: Debug-Plan und Log-Formate festgelegt
 
-========================================
-Minimale Artefakte beilegen (Dateiliste)
-========================================
-- /docs/anforderungen_kraut_korn_v1.txt
-- /docs/nutzwertanalyse_kriterien_v1.csv
-- /docs/entscheidungsmatrix_v1.csv
-- /docs/bezogspreise_tabelle_v1.csv
-- /docs/sicherheitskonzept_v1.txt
-- /docs/ueberwachungsplan_v1.txt
-- /firmware/arduino/blink_serial_demo.ino
-- /firmware/arduino/lib_readme.txt
+</details>
 
-========================================
-Fragen fuer das Fachgespraech
-========================================
+<details><summary>Fragen fuer das Fachgespraech</summary>
+
 - Sind die definierten Alarm-Anforderungen vollstaendig und realistisch?
 - Reicht die NodeMCU-Leistung fuer geforderte Sensorik/Aktorik?
 - Welche Ziele priorisieren wir in der Nutzwertanalyse (z. B. Sicherheit > Kosten)?
@@ -112,7 +102,3 @@ Naechste Schritte:
 3) Prototyp: Basis-Sensorik anbinden, serielle Logs testen
 4) Sicherheits-Implementierung: erste Verschluesselungskette validieren
 5) Reaktionszeit messen und optimieren (Debounce, Interrupts, Netzwerkpfad)
-
-========================================
-Ende der Datei
-========================================
