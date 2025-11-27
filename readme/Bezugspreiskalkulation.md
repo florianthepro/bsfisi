@@ -1,14 +1,3 @@
-| **Anbieter** | **AZ-Delivery** | **Reichelt** |
-|-|-|-|
-| Listenpreis Nett | 5,87€ | 5,80 |
-| Rabatt | 0,64€ | 0,27€ |
-| Zielankaufspreis| 5,79€ | 5,13€ |
-| Lieferanten Skonto | 0,17€ | 0,10€ |
-| Bonitätspreis | 5,62€ | 5,03 |
-| Bezugspreis | / | 2,60€ |
-| Bezugspreis netto |  | 7,63€ |
-
-
 | **Anbieter** | **AZ-Delivery** | **Reichelt Elektronik** |
 |-|-|-|
 | Listenpreis | 7,14€ | 8,23€ |
@@ -21,7 +10,11 @@
 
 
 NodeMCU Lua Amica Modul V2 ESP8266 ESP-12F WIFI Wifi Development Board mit CP2102
+
 [AZ-Delivery](https://www.az-delivery.de/products/nodemcu)
 
 NodeMCU ESP8266 WiFi-Modul
+
 [Reichelt Elektronik](https://www.reichelt.de/de/de/shop/produkt/nodemcu_esp8266_wifi-modul-219900)
+
+!
