@@ -1,1 +1,1 @@
-<iframe src="https://example.com" width="800" height="600"></iframe>
+[![Screenshot der Seite](screenshot.png)](https://florianthepro.github.io/bsfisi/)
