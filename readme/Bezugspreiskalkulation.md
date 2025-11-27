@@ -8,12 +8,15 @@
 | Bezugskosten | 3,95€ | 7,66€ |
 | Bezugspreis | 10,59€ | 13,62€ |
 
+---
 
 NodeMCU Lua Amica Modul V2 ESP8266 ESP-12F WIFI Wifi Development Board mit CP2102
 
 [AZ-Delivery](https://www.az-delivery.de/products/nodemcu)
 
 ![](https://github.com/florianthepro/bsfisi/blob/files/Screenshot%202025-11-27%20110841.png)
+
+---
 
 NodeMCU ESP8266 WiFi-Modul
 
