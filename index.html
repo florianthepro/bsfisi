@@ -1,11 +1,142 @@
-button {
-  padding: 6px 10px;
-  border: 1px solid #ccc;
-  background: #f5f5f5;
-  border-radius: 6px;
-  cursor: pointer;
-  color: black; /* Schriftfarbe auf schwarz setzen */
-}
-button:hover {
-  background: #eee;
-}
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Readme Browser</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; display: grid; grid-template-columns: 280px 1fr; min-height: 100vh; }
+    header { grid-column: 1 / -1; padding: 12px 16px; border-bottom: 1px solid #ddd; }
+    nav { border-right: 1px solid #ddd; padding: 12px; overflow-y: auto; }
+    main { padding: 16px; overflow-y: auto; }
+    .item { display: block; padding: 8px 10px; border-radius: 6px; text-decoration: none; color: inherit; }
+    .item:hover { background: rgba(0,0,0,0.06); }
+    .active { background: rgba(0,0,0,0.12); font-weight: 600; }
+    #content { max-width: 860px; }
+    pre code { display: block; overflow-x: auto; padding: 12px; border-radius: 8px; }
+    .toolbar { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; }
+    .spacer { flex: 1; }
+    button { padding: 6px 10px; border: 1px solid #ccc; background: #f5f5f5; border-radius: 6px; cursor: pointer; color: black;}
+    button:hover { background: #eee; }
+    @media (max-width: 840px) { body { grid-template-columns: 1fr; } nav { grid-row: 3; border-right: none; border-top: 1px solid #ddd; } }
+  </style>
+  <!-- Markdown-Renderer und Syntax-Highlighting -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+</head>
+<body>
+  <header>
+    <strong>Readme Browser</strong>
+  </header>
+  <nav id="list"></nav>
+  <main>
+    <div class="toolbar">
+      <div id="title"></div>
+      <div class="spacer"></div>
+      <button id="prevBtn" title="Vorherige Datei">←</button>
+      <button id="nextBtn" title="Nächste Datei">→</button>
+      <button id="rawBtn" title="Rohansicht öffnen">Raw</button>
+    </div>
+    <article id="content"></article>
+  </main>
+
+  <script>
+    // Marked konfigurieren
+    marked.setOptions({
+      breaks: true,
+      gfm: true,
+      highlight: (code, lang) => {
+        try { return hljs.highlight(code, {language: lang}).value; }
+        catch { return hljs.highlightAuto(code).value; }
+      }
+    });
+
+    const basePath = 'readme/';
+    const indexUrl = basePath + 'index.json';
+    let files = [];
+    let currentIndex = 0;
+
+    async function loadIndex() {
+      const res = await fetch(indexUrl);
+      if (!res.ok) throw new Error('index.json nicht gefunden: ' + res.status);
+      files = await res.json();
+      renderList();
+      // Falls URL den Parameter ?file=... hat, nutze den
+      const params = new URLSearchParams(location.search);
+      const fileParam = params.get('file');
+      if (fileParam) {
+        const i = files.findIndex(f => f.file === fileParam);
+        currentIndex = i >= 0 ? i : 0;
+      }
+      show(currentIndex);
+    }
+
+    function renderList() {
+      const list = document.getElementById('list');
+      list.innerHTML = '';
+      files.forEach((f, i) => {
+        const a = document.createElement('a');
+        a.href = '?file=' + encodeURIComponent(f.file);
+        a.textContent = f.title || f.file;
+        a.className = 'item' + (i === currentIndex ? ' active' : '');
+        a.addEventListener('click', (e) => {
+          e.preventDefault();
+          currentIndex = i;
+          show(currentIndex);
+          updateActive();
+          history.replaceState(null, '', '?file=' + encodeURIComponent(files[currentIndex].file));
+        });
+        list.appendChild(a);
+      });
+    }
+
+    async function show(i) {
+      const meta = files[i];
+      document.getElementById('title').textContent = meta.title || meta.file;
+      document.getElementById('rawBtn').onclick = () => {
+        window.open(basePath + meta.file, '_blank');
+      };
+
+      const res = await fetch(basePath + meta.file);
+      if (!res.ok) {
+        document.getElementById('content').innerHTML = `<p>Fehler beim Laden: ${res.status}</p>`;
+        return;
+      }
+      const md = await res.text();
+      const html = marked.parse(md);
+      document.getElementById('content').innerHTML = html;
+      document.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+      updateActive();
+      updateNavButtons();
+      history.replaceState(null, '', '?file=' + encodeURIComponent(meta.file));
+    }
+
+    function updateActive() {
+      document.querySelectorAll('#list .item').forEach((el, i) => {
+        el.classList.toggle('active', i === currentIndex);
+      });
+    }
+
+    function updateNavButtons() {
+      document.getElementById('prevBtn').disabled = currentIndex <= 0;
+      document.getElementById('nextBtn').disabled = currentIndex >= files.length - 1;
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentIndex > 0) { currentIndex--; show(currentIndex); }
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentIndex < files.length - 1) { currentIndex++; show(currentIndex); }
+    });
+
+    loadIndex().catch(err => {
+      document.getElementById('content').innerHTML = `<p>${err.message}</p>`;
+    });
+  </script>
+</body>
+</html>
