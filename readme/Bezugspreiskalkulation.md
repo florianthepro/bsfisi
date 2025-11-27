@@ -13,8 +13,10 @@ NodeMCU Lua Amica Modul V2 ESP8266 ESP-12F WIFI Wifi Development Board mit CP210
 
 [AZ-Delivery](https://www.az-delivery.de/products/nodemcu)
 
+![](https://github.com/florianthepro/bsfisi/blob/files/Screenshot%202025-11-27%20110841.png)
+
 NodeMCU ESP8266 WiFi-Modul
 
 [Reichelt Elektronik](https://www.reichelt.de/de/de/shop/produkt/nodemcu_esp8266_wifi-modul-219900)
 
-!
+![](https://github.com/florianthepro/bsfisi/blob/files/Screenshot%202025-11-27%20110906.png)
