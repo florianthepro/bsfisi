@@ -122,8 +122,8 @@
     }
 
     function updateNavButtons() {
-      //document.getElementById('prevBtn').disabled = currentIndex <= 0;
-      //document.getElementById('nextBtn').disabled = currentIndex >= files.length - 1;
+      document.getElementById('prevBtn').disabled = currentIndex <= 0;
+      document.getElementById('nextBtn').disabled = currentIndex >= files.length - 1;
     }
 
     document.getElementById('prevBtn').addEventListener('click', () => {
