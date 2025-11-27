@@ -19,8 +19,18 @@
     pre code { display: block; overflow-x: auto; padding: 12px; border-radius: 8px; }
     .toolbar { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; }
     .spacer { flex: 1; }
-    button { padding: 6px 10px; border: 1px solid #ccc; background: #f5f5f5; border-radius: 6px; cursor: pointer; color: black; }
-    button:hover { background: #eee; }
+    button {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  border-radius: 6px;
+  cursor: pointer;
+  color: black; /* Schriftfarbe auf schwarz setzen */
+}
+button:hover {
+  background: #eee;
+}
+
     @media (max-width: 840px) { body { grid-template-columns: 1fr; } nav { grid-row: 3; border-right: none; border-top: 1px solid #ddd; } }
   </style>
   <!-- Markdown-Renderer und Syntax-Highlighting -->
